@@ -1,1 +1,2 @@
-# ScoolTaskAndStudy
+# 학교용
+과제, 실습
